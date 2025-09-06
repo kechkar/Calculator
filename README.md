@@ -2,7 +2,7 @@
 
 A simple **calculator app** built with **HTML, CSS, and vanilla JavaScript**.  
 
-👉 Live Demo: https://YOUR-USERNAME.github.io/calculator/
+👉 Live Demo: https://kechkar.github.io/Calculator/
 
 ## ✨ Features
 - Addition, subtraction, multiplication, division
